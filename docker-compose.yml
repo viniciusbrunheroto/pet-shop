@@ -4,7 +4,7 @@ services:
     image: postgres:17
     container_name: petshop-db
     restart: always
-    ports: 
+    ports:
       - '5432:5432'
     environment:
       POSTGRES_USER: docker
