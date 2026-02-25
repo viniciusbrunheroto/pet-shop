@@ -1,7 +1,7 @@
 # Projeto Fullstack: Mundo Pet
 
 <p align="center" dir="auto">
-  <img alt="Projeto 01" src=".github/petshop.jpg" style="max-width: 100%; width:350px; height:350px;"></a>
+  <img alt="Projeto 01" src=".github/petshop.jpg" style="max-width: 100%; "></a>
 </p>
 
 ## 💻 Tecnologias
