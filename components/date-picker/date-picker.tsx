@@ -81,7 +81,9 @@ export const DatePicker = () => {
             <div className="flex items-center gap-2">
               <CalendarIcon className="h-4 w-4 text-content-brand " />
               {date ? (
-                format(date, 'dd/MM/yyyy')
+                format(date, 'dd/MM/yyyy', {
+                  locale: ptBR,
+                })
               ) : (
                 <span>Selecione uma data</span>
               )}
