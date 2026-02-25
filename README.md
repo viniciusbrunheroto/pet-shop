@@ -4,7 +4,8 @@
   <img alt="Projeto 01" src=".github/petshop.jpg" style="max-width: 100%; "></a>
 </p>
 
-## 💻 Tecnologias
+
+## 💻 Descrição
 
 Concluí mais um projeto da Rocketseat, desta vez desenvolvendo uma aplicação fullstack para agendamento de serviços em pet shop utilizando React.js e Next.js.
 
