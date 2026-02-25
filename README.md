@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Projeto Fullstack: Mundo Pet
 
-## Getting Started
+<p align="center" dir="auto">
+  <img alt="Projeto 01" src=".github/petshop.jpg" style="max-width: 100%; width:350px; height:350px;"></a>
+</p>
 
-First, run the development server:
+## 💻 Tecnologias
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Concluí mais um projeto da Rocketseat, desta vez desenvolvendo uma aplicação fullstack para agendamento de serviços em pet shop utilizando React.js e Next.js.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+A aplicação permite que o usuário selecione o dia desejado e realize agendamentos divididos em três períodos:
+Manhã: das 9h às 12h
+Tarde: das 13h às 18h
+Noite: das 19h às 21h
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Esse projeto reforçou conceitos importantes de aplicações fullstack modernas com Next.js, integração com banco de dados e gerenciamento de formulários.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠 Tecnologias
 
-## Learn More
+Durante o desenvolvimento, foquei em boas práticas de organização, validação e experiência do usuário, utilizando:
 
-To learn more about Next.js, take a look at the following resources:
+🔹 Next.js + React.js para estrutura fullstack
+🔹 shadcn/ui como design system
+🔹 Tailwind CSS para estilização
+🔹 Zod para validação de formulários
+🔹 React Hook Form com inputs controlados
+🔹 Form Actions para criar, atualizar e deletar agendamentos
+🔹 PostgreSQL rodando em ambiente Docker
+🔹 Prisma ORM para comunicação com o banco de dados
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 💛 Contato
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+vinibrunheroto12@gmail.com
